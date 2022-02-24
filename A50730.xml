@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech delivered by Sir Avdley Mervyn His Majesties prime serjeant at law in Ireland, and speaker of the House of Commons to his grace James Duke of Ormond, Lord Lievtenant of Ireland, in the presence chamber in the castle of Dublin, the 29. of July 1662</title>
+            <author>Mervyn, Audley, Sir, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50730</idno>
+            <idno type="STC">Wing M1883</idno>
+            <idno type="STC">ESTC R9996</idno>
+            <idno type="EEBO-CITATION">12926899</idno>
+            <idno type="OCLC">ocm 12926899</idno>
+            <idno type="VID">95535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 989:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech delivered by Sir Avdley Mervyn His Majesties prime serjeant at law in Ireland, and speaker of the House of Commons to his grace James Duke of Ormond, Lord Lievtenant of Ireland, in the presence chamber in the castle of Dublin, the 29. of July 1662</title>
+                  <author>Mervyn, Audley, Sir, d. 1675.</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95535:1" rendition="simple:additions"/>
+            <pb facs="tcp:95535:1" rendition="simple:additions"/>
+            <p>A SPEECH, Delivered by Sir AVDLEY MERVYN His Majeſties Prime Serjeant at Law in IRELAND, and Speak<g ref="char:EOLhyphen"/>er of the Houſe of Com<g ref="char:EOLhyphen"/>mons, to his Grace <hi>JAMES</hi> Duke of <hi>ORMOND,</hi> Lord Lievtenant of IRELAND, in the preſence Chamber in the Caſtle of DUBLIN, the 29. of July 1662.</p>
+            <p>DUBLIN Printed by VVILIAM BLADEN, by ſpecial Order, Anno Dom. 1662.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:95535:2"/>
+            <head>
+               <date>30 <hi>July</hi> 1662.</date>
+            </head>
+            <p>ORdered <hi>nemine contradicente,</hi> that the Speech delivered by M<hi rend="sup">r.</hi> Speaker yeſterday, to his Grace IAMES Duke of ORMOND, Lord Lievtenant of this Kingdome, being ſo fully agreeable to the ſence of the Houſe, be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>PHIL. FERNELEY. Cler. Parliam.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:95535:2" rendition="simple:additions"/>
+            <opener>
+               <salute>May it pleaſe your Grace;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was truly ſaid, in <hi>Numero, Pondere, &amp; menſurae Creavit Deus omnia;</hi> His Majeſty, Gods Vice<g ref="char:EOLhyphen"/>gerent intending a new Creation to this poor Kingdome, (for who knows not the Chaos we have been involved in) hath aſſembled theſe Honourable perſons that now attend your Grace, in <hi>Numero,</hi> repreſenting the Commons of this Kingdome, in <hi>Pondere</hi> qua<g ref="char:EOLhyphen"/>lifyed with judgement and experience to treat and adviſe about the weighty Affaires thereof; In <hi>Menſura,</hi> according to their mite, offering to his Majeſty meaſure preſt down, and run<g ref="char:EOLhyphen"/>ning over: This Aſſembly have commanded me, (O that I could wave this word command, my own inclination leading me to the ready performance of this duty,) but I muſt not, I have received their command, a ſtrict one, they have left me no diſcretionary Latitude, they have intruſted me with a rich jewell to preſent your Grace, and onely recommended the moduling the caſe unto me: and this under a limitation too; For rhey know that Logick ſits at the forge and hammer, Rhetorick at the file and poliſhing, and this in favour of the Laws they have forbid me, knowing I ought not to practice in that miſtery wherein I have not ſerved out my time; and though this be <hi>una,</hi> it is not <hi>unica ratio,</hi> for truth, and ſuch a truth as muſt be ſtampt by the authority of that Houſe, they judge according to the rules of Herauldry, it muſt be embla<g ref="char:EOLhyphen"/>ſon'd in a plain co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t: Next Sir, the Houſe in this addreſs fol<g ref="char:EOLhyphen"/>lows
+<pb n="2" facs="tcp:95535:3" rendition="simple:additions"/>not the tract of common principles; For, that beauty of the univerſe we behold, ariſes out of jarring Elements, <hi>D<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs concordia <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aetibus apta eſt;</hi> the moſt raviſhing Harmony is com<g ref="char:EOLhyphen"/>pos'd of diſcords; But when this Houſe raiſes ſtructure, the noiſe of a hammer muſt not be heard in the building; when they ſet a leſſon it muſt be perfected out of uniſons: <hi>Nemine contradicente</hi> is the Key of our deſcants, and by a <hi>Nemine contra<g ref="char:EOLhyphen"/>dicente</hi> I am commanded this day to publiſh to your Grace, <hi>a,</hi>
+               <q>Dicite Jo Paean, &amp; Jo bis dicite Paean.</q>
+            </p>
+            <p>Welcome, welcome, welcome Great DUKE is the Anthem appointed by the Houſe of Commons for this great Feſtival; This is <hi>multum in parvo,</hi> and according to that rule <hi>veritatis ſyllabas oportet eſſe breves:</hi> This is above the task of a ſingle tongue, <hi>Non mihi ſi centum lingu is centum oraque.</hi> No, ſo many faces as attend your Grace, are the volumes in which this re<g ref="char:EOLhyphen"/>cord of welcome is inrolled; Fleſh muſt be the Parchment, and bloud the Rubrick to regiſter this day, without Errata's, or any <hi>Index expurgaterius:</hi>
+            </p>
+            <p>Our Prayers were, you might come, Our enquiries were, when will he come<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Our joyes muſt be compleat to welcome you now you are come.</p>
+            <p>The Laconiſme of <hi>Caeſar's</hi> letter I have heard admired, who wrote <hi>veni, vidi, vici;</hi> But Sir, You may write much ſhorter, and much truer, <hi>vici</hi> onely, for ſo forcible an operation hath Your virrues, that many worthy perſons this day, of whom you could not write either <hi>veni</hi> or <hi>viai,</hi> have entertained an Honourable conteſt who ſhould firſt reſigne the devotion of their ſervices to your Commands; ſo that I may ſay,
+<pb n="3" facs="tcp:95535:3" rendition="simple:additions"/>
+               <q>
+                  <l>Hoc, Caelo commune tibi eſt, dux magne, deiſque</l>
+                  <l>Diſtantem influxu poſse ſerire tuo.</l>
+               </q>
+            </p>
+            <p>I remember I thrice repeated your Graces Welcome; there is more of Logick than Rhetorick in it, for there are three E<g ref="char:EOLhyphen"/>ſtates concerned in it; The Lords Spiritual have welcomed you into the boſome of the Church: The Lords Temporall have welcomed you into the bed of Honour, The Commons do welcome you into the receſſes of their Hearts, perfum'd with Loyalty to his Majeſty, and with ſubmiſſive affection to your Perſon; What hinders then, But it be Enacted, But here I want expreſſion when I conſider the divided paſſions of our Soveraign in giving the Royall aſſent.</p>
+            <p>May it pleaſe your Majeſty, you muſt either deny your ſelf or deny us, and you have rather denyed your ſelf, then you would deny us: you are contented though under ſome impa<g ref="char:EOLhyphen"/>tience to want his Grace, rather then we ſhould want him un<g ref="char:EOLhyphen"/>der <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpair: Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſince we have the Royall aſſent, let your Gr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces welcome be Enacted, not by a temporary act, but to continue to us and our poſterity.</p>
+            <p>But what a croud of ingredients compound the preſent con<g ref="char:EOLhyphen"/>ſiſtencie of our joys, and even theſe have their juſt advantages; The Sun breaking forth from an impriſoning cloud returns with a coveted light, and we are taught many times to inhance the value of former enjoyments by their abſence; this weak<g ref="char:EOLhyphen"/>neſs of our judgement being recompenc't with an improve<g ref="char:EOLhyphen"/>ment of our affection: Thus Sir, when we conſidered you ex<g ref="char:EOLhyphen"/>il'd from whatſoever might have yielded you a ſublunary ſa<g ref="char:EOLhyphen"/>tisfaction;
+<pb n="4" facs="tcp:95535:4"/>when we conſider you divorc't from your Lady, whom Grace and Nature had fitted to tranſmit your Name and Honours to future ages, in an iſſue like to you both; when we conſider you raviſht from thoſe large haereditary territories conveyed through the channells of ancient, pure, and Noble bloud; and not onely thus divorc't from <hi>Rachel,</hi> but expos'd to <hi>Leagh,</hi> to a bleer-eyd condition, and for what crimes? your virtues were your crimes: This is the impriſoning cloud; But now to behold you breaking forth with Rayes, Rayes reflected from the ſolar aſpect of his Majeſty, Rayes that a<g ref="char:EOLhyphen"/>waken and call up the ſleeping virtue in the roots of the ſeveral intereſts in this Kingdom, Rayes that guild the Church, Rayes that we doubt not but will <hi>ſegregare heterogenea,</hi> burn up ſchi<g ref="char:EOLhyphen"/>ſmes, Hereſies, <hi>&amp; congregare homagenea,</hi> wedde doctrine and diſcipline; Rayes that warm the civil Government, Rayes not contracted to the Cedars of <hi>Lebanon,</hi> but proportionably influencing the loweſt ſhrubs, what return for ſuch generall benefits, then the generall acknowledgement of all the Com<g ref="char:EOLhyphen"/>mons in this Kingdome.</p>
+            <p>But Sir, in the Van of particulars, your care of that Religi<g ref="char:EOLhyphen"/>on profeſt in your Mother Church opens our arms, and En<g ref="char:EOLhyphen"/>circles you in Embraces as faſt, and durable, as thoſe with which you Embraced it: That Religion of which you uſe to ſay;
+<q>
+                  <l>Illa meos, primum quae me ſibi junxit, amores</l>
+                  <l>Abſtulit, illa habeat ſecum-ſervatque Sepulcro.</l>
+               </q>
+            </p>
+            <p>And had we no other inſtances of his Majeſties tenderneſs to this Kingdome, nor other evidences of his, Religious S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul this even this ſingle act were enough to confirm our affections
+<pb n="5" facs="tcp:95535:4" rendition="simple:additions"/>and Loyalty, and to regulate our imitation: We may well judge his Majeſtie expects us to write in a Canonicall hand, by ſend<g ref="char:EOLhyphen"/>ing us over ſuch an Orthodox Coppy;</p>
+            <p>Black mouth Detraction thou that feedeſt upon the conſci<g ref="char:EOLhyphen"/>ences of Kings, and gnaweſt the breaſts of great Miniſters of State, hide thy mouth in the duſt; this day thy Tragaedy bears date: Behold him placed over us by our Soveraign, up<g ref="char:EOLhyphen"/>on whom Temptations in the wilderneſs, in forrain parts, af<g ref="char:EOLhyphen"/>ter many days faſting in a neceſſitated condition, left no o<g ref="char:EOLhyphen"/>ther Impreſſion, then their fome and malice: And <hi>Ireland</hi> hearken not unto unwarrantable fears (if any ſuch be) behold him that in his ſingle Perſon dar'd the French Cardinals pow<g ref="char:EOLhyphen"/>er, and rage in reſcuing that Illuſtrious Prince of freſh and glorious memory, the Duke of GLOCESTER from the ſnares layd for his tender years: What mayeſt thou not now expect from him, armed with power, fenc't with Laws, and both deſigned by the moſt religious of Kings,
+<q>Nil deſperandum tali duce &amp; auſpice tali:</q>
+            </p>
+            <p>Thus Sir you arrive to us Commiſſion'd from God, for they that honour him, he will honour them:</p>
+            <p>Religion hath an unſeperable companion, Loyalty: Theſe are like <hi>Ruth</hi> and <hi>Naomi,</hi> whereſoever thou goeſt, I will go, and God having joyned them in your Grace I dare not ſeparate them; This was <hi>Ariadnes</hi> Clue that led you through all the Labyrinths and viciſſitudes of your life: this hath returned you to us with the ſame countenance and complexion, <hi>Sic oculos ſic ora ferebat,</hi> as when vou left us, I wonder at thoſe that wonder at it, for how ſhould the face alter, when the Hear, and noble parts retain their primitive healthful temper: How can
+<pb n="6" facs="tcp:95535:5"/>conſumptive impreſſions ſeiſe that body that keeps within it ſelf a feaſt, a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt (with reverence I ſay it,) dreſt by Gods one hand, for your good conſcience was a continual feaſt: God pre<g ref="char:EOLhyphen"/>ſerved you and reſerved you for this day, therfore your eye muſt not grow dimme or your natural heat decay:</p>
+            <p>Impregnable Caſtles and walls of Braſs are but Emblems of this ſingle virtue:</p>
+            <p>The Poets fained that <hi>Iupiter,</hi> the better to compaſs his Rapes transformed himſelfe into ſeveral ſhapes;
+<q>Fit Taurus, Cygnus, Satyrus, aurumque ob amorem:</q>
+            </p>
+            <p>Let the Fable goe, but the Moral holds, that the uſurped powers at home, and confoederated powers abroad run all thoſe Metamorphoſes for the Triumph of a ſingle Rape upon your Allegiance, and all in vain, If we liſten unto the <hi>S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ren</hi> aire of their Promiſes and Invitations, they are <hi>Swans,</hi> if we conſider the merit and weight of them, they are ſhowres of Gold, they learnt the plauſible Dialect from their Father, all this will I give you, if you will fall down and worſhip: If we reflect on their menaces, and (which is more) their practices they appear in ſhapes more fierce, and antick, then Bulls, and Satyrs: But your Grace made good by practiſe what deſerves the praiſes of a ſpeculative fancy, be pleaſed to attend it, it is the Epiſtle appointed by the Houſe for this preſent day,
+<q>
+                  <l>Iuſtum &amp; tenacem propoſiti virum,</l>
+                  <l>Non civium ardor prava jubentium,</l>
+                  <l>Non vultus inſtantis Tyranni,</l>
+                  <l>Mente qualit ſolida, ſe fractus,</l>
+                  <l>Illabatur orbis Impavidum,</l>
+                  <l>Fereunt ruinae.</l>
+               </q>
+            </p>
+            <pb n="7" facs="tcp:95535:5" rendition="simple:additions"/>
+            <p>Your Grace knew you were a ſtar, of the firſt magnitude in the guards of CARLES his wain, and thoſe muſt not be Erratick, but fixt: Thus you are Commiſſion'd from the King unto us, and then what ſhall be ſaid, nay, what muſt be done to the man, whom the King intends to honour:</p>
+            <p>Now be pleaſed to give us leave to lay aſide theſe general Topicks of Religion and Loyalty, and to recreate our ſelves with the remembrance of thoſe benifits we enjoyed under your Graces government:</p>
+            <p>It was not ſtill muſik, or bonefires lighted for Triumph, that uſhered your Grace into your government; No, it was the warlike noiſe, of Trumpets, ſounding of Drumms, neigh<g ref="char:EOLhyphen"/>ings of barbed Steeds, and the ſcreeches of the half-ſlain that Proclaimed your entrance upon a ſtage of blood: And when you were thus but a Graduate in your Government, you were put upon termes of diſadvantage and neceſſity to diſpute with the Doctors of the Chair, for your enimies wanted neither <hi>dolus,</hi> or <hi>virtus:</hi> And if we who in a direct line partake of the prudence of your Councels and the ſucceſs of your ſword ſhould be ſi<g ref="char:EOLhyphen"/>lent, even <hi>England</hi> that is but collaterally intereſted, might, nay, would upbraid our ingratitude, ſince the Lords and Com<g ref="char:EOLhyphen"/>mons, aſſembled in Parliament, there pregnant with the ſenſe of your merits were humble ſuitors to his late Majeſty of ever glorious memory as an earneſt of his further favours to confer on you the honour and dignity of a <hi>Marqueſs,</hi> and that the riſe of that honour might ſurvive to be at the inſtance of the Par<g ref="char:EOLhyphen"/>liament in <hi>England,</hi> they preſented your Grace with a jewel to be worne upon your breaſt, the better to direct the e<g ref="char:EOLhyphen"/>ſteem of men to the inward-jewel-by the richneſs of the caſe.</p>
+            <pb n="8" facs="tcp:95535:6" rendition="simple:additions"/>
+            <p>Thus we enjoyed in the heat of war, the ſhades of peace un<g ref="char:EOLhyphen"/>till fatal diviſions among our ſelves, (and a divided Kingdom cannot ſtand) rent your grace from us, and then when the ſhepheard was ſmote, how miſerably were the ſheep ſcatter'd?</p>
+            <p>But when your Grace ſaw this Royal veſſel ſinking, you leapt not into the Long boat to make proviſion for your one ſafety: no, you made honourable and ſecure articles for thoſe that imbarqu't upon your accompt.</p>
+            <p>Many ſtand here this day that owe a laſting ſacrifice to your piety, who through age, wants, family dependancies, or the like onely accompanying your Grace with their prayers under the L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of thoſe articles in the continued violence of thoſe ſtormes, Embayed themſelves and their fortunes.</p>
+            <p>And yet when the flagging ſayls carried you unwillingly from this Coaſt, when you loſt the ſight, yet you retain'd the ſenſe of this Land: Length of time, or diſtance of place, could not abate the intenſiveneſs of your ſpirits for this Kingdoms good.</p>
+            <p>It is ſaid that upon the diſſection of Q. <hi>Mary</hi> in order to her embalming, <hi>Callis</hi> was found written on her heart: I ſhall not diſpute the truth, but ſure this is, <hi>Ireland</hi> at your Graces departure was <hi>ultimum moriens,</hi> and upon your return <hi>Primum venèns.</hi>
+            </p>
+            <p>I ſhall paſs by that familiar reception your Grace afforded to the Commiſſioners of the General Convention of <hi>Ireland,</hi> (for the name of it I can onely ſay, <hi>aliquisque male fuit uſus in illo)</hi>
+               <pb n="9" facs="tcp:95535:6" rendition="simple:additions"/>Neitheir ſhall I mention your frequent and ſtedable advices, your conſtant readineſs upon all occaſions to bring them into his Majeſties preſence: I forbear your Graces paſſionate and repeated Queſtions, How little <hi>Benjamin</hi> did? how all things were in <hi>Ireland?</hi> whether the old man was liveing? how our fundamental Laws were adminiſtred: And in the concluſion of all, how careful you were to teturn us with our moneys in our ſacks mouths, with his Majeſties gracious Declarations, and Inſtructions, ſo that the addreſſes from this Kingdom went out like the Bow of <hi>Ionathan</hi> that never returned empty.</p>
+            <p>Witneſs the addreſs from this Houſe by their Commiſſio<g ref="char:EOLhyphen"/>ners to his Sacred Majeſty, in reference amongſt other things, to that great Bill of Settlement, (for that adopted title it re<g ref="char:EOLhyphen"/>taines) Sir, I am not this day ſpeaking of his Majeſty, we ſtill praemiſe, <hi>Rex nobis haec otia fecit:</hi> of him we ſay, <hi>Omnium domus illius vigilia defendit, omnium otium illius labor, omnium delitias illius induſtria, omnium vacationem illius occupatio;</hi> His Majeſty is the Spirit that moves the wheels, and Weare now upon one of the Maſter-wheels, and happy is the Kingdome when the wheels moves as the Spirit moves; His Majeſty is the waters of healing, and we applaud a tutelar Angel that ſtir'd the wa<g ref="char:EOLhyphen"/>ters, and helpt in this paralytical Kingdome in the croud of Patients: And here give me leave to remember the five fold meſs of your time that you afforded <hi>Benjamin:</hi> Did the morn<g ref="char:EOLhyphen"/>ing require your Graces attending in Parliament? IRELAND muſt be firſt ſerved: Did afternoon Committees pray in and to your advice? IREIAND muſt be firſt ſerved; were there particular cauſes deſigned for hearing at the Council Boord? you have ſuccesfully imployed your mediation that IRELAND might be firſt ferved: when clauſes and Proviſo's were offered
+<pb n="10" facs="tcp:95535:7" rendition="simple:additions"/>to be inſerted in that great Bill, your firſt care was to ſee if they were Declaration touch, and held them up before it, as the E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gle to try the legitimation of her brood, dares their eyes with the Sun beams; and in the throng of ſuch addreſſes, I have obſerved your Grace in civility to hear all perſons, but in juſtice to ſee none; And if upon pretenſions of Profit, any intrenchments upon the Declaration had been offered, your Grace knowing the nature of your Great Maſters ſtandard, wherein a carack of honour, outweigh'd pounds of profit, you endeavoured to tranſmit the Bill as a ſeamleſs coat.</p>
+            <p>And now Sir, I need not have recourſe to any Rhetoricall Figure, to make that great Bill to ſpeak; your Grace may take notice, that as, many dayes you waited upon it, ſo it hath to this day waited upon your Grace; It remembers how often when it was in the Cradle and ſwaddling bands, you viſited it; It remembers when it was in the ſtate of its minority, and un<g ref="char:EOLhyphen"/>der a Committee of the Council Boord, how faithful and ten<g ref="char:EOLhyphen"/>der a Guardian you was to it: It remembers how powerfully inſtrumental you was to give it a body, and now waits untill your Grace by the Royall aſſent breath a Soul into it.</p>
+            <p>It is now time to take in my ſayles, and make ready an an<g ref="char:EOLhyphen"/>chor, eſpecially ſince me thinks I ſee a cloud riſing upon your brow; I know your Graces temper, that you place your re<g ref="char:EOLhyphen"/>ward as well as your recreation in doing good, and not in hear<g ref="char:EOLhyphen"/>ing of it being done; But be pleaſed to remember, it is the Commons of this Kingdome ſpeak, and then, <hi>Vox populi,</hi> nay more, <hi>Vox populi Dei,</hi> is <hi>Vox Dei;</hi> As they are the great enqueſt to preſent criminals ſo they are the great records to preſerve vir<g ref="char:EOLhyphen"/>tue and merits: Could your Grace have been contented to have
+<pb n="11" facs="tcp:95535:7"/>acted leſs, my Commiſſion would have been to have <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leſs; But it is fit we give your Grace an Eſſay of that obedience that ſo unanimouſly we devote to your Commands; and therefore, I ſhall onely adde, That as this Houſe moſt ſubmiſſively ac<g ref="char:EOLhyphen"/>knowledgeth the repeated obligations from his Majeſty; ſo they look upon this as the fermentation of them all, that he hath put thoſe Laws and Eſtates he hath ſo graciouſly beſtow<g ref="char:EOLhyphen"/>ed on us, under your Graces Government and Protection: And that while it ſhall ſeem expedient to his Majeſty, to continue us in a Parliamentary way, His Majeſty ſhall find the effects of his great wiſdom and goodneſs in giving your Grace unto us, a Governour after our own hearts; That ſo, as we have been happy in your Grace, your Grace may be happy in us, and the union of both theſe, Center in the ever prayed for happineſs of his Majeſty, and his other Kingdomes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
